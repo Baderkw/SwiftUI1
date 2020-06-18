@@ -14,6 +14,7 @@
 		1E3EC623249570B200996A5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E3EC622249570B200996A5C /* Assets.xcassets */; };
 		1E3EC626249570B200996A5C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E3EC625249570B200996A5C /* Preview Assets.xcassets */; };
 		1E3EC629249570B200996A5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3EC627249570B200996A5C /* LaunchScreen.storyboard */; };
+		1E5CEC9C2499162600A10FD1 /* SolvingTimerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5CEC9B2499162600A10FD1 /* SolvingTimerModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1E3EC625249570B200996A5C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1E3EC628249570B200996A5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E3EC62A249570B200996A5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E5CEC9B2499162600A10FD1 /* SolvingTimerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvingTimerModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1E3EC619249570AC00996A5C /* AppDelegate.swift */,
 				1E3EC61B249570AC00996A5C /* SceneDelegate.swift */,
 				1E3EC620249570AC00996A5C /* ContentView.swift */,
+				1E5CEC9B2499162600A10FD1 /* SolvingTimerModel.swift */,
 				1E3EC622249570B200996A5C /* Assets.xcassets */,
 				1E3EC627249570B200996A5C /* LaunchScreen.storyboard */,
 				1E3EC62A249570B200996A5C /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				1E3EC61F249570AC00996A5C /* SwiftUI1.xcdatamodeld in Sources */,
 				1E3EC61A249570AC00996A5C /* AppDelegate.swift in Sources */,
+				1E5CEC9C2499162600A10FD1 /* SolvingTimerModel.swift in Sources */,
 				1E3EC621249570AC00996A5C /* ContentView.swift in Sources */,
 				1E3EC61C249570AC00996A5C /* SceneDelegate.swift in Sources */,
 			);
